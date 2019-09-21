@@ -1,5 +1,4 @@
 package test;
-
 public class J_Swap {
 
 	public static void main(String[] args) {
